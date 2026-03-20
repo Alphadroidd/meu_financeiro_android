@@ -1,0 +1,1 @@
+// Configuração gerenciada pelo settings.gradle.kts
